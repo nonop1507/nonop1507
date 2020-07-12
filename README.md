@@ -1,16 +1,15 @@
-### Hi there 👋
+### 안녕하세요 👋
 
-<!--
-**nonop1507/nonop1507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+저는 동국대학교 산업시스템 공학과에 재학중인 20학번 최동근입니다.  
+주로 안드로이드 스튜디오를 이용한 안드로이드 앱 개발을 공부하고 있으며, Kotlin/Java 언어를 주력으로 사용합니다. 
+MVP/MVVM 등 다양한 아키텍처와 AAC 등을 사용하는 것에 관심이 많으며 최근 코루틴과 DI에 대해 공부해보고 있습니다.  ㅇ
 
-Here are some ideas to get you started:
+크몽 사이트에서 외주를 진행하고 있으며 서비스에 대한 내용은 다음 링크에서 확인 가능합니다.  
+https://kmong.com/gig/149968
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+현재 산업 기능요원 현역 편입이 가능한 회사를 찾아 구직중에 있으며 이력서는 다음 링크에서 확인 가능합니다.  
+https://www.rocketpunch.com/@b804e1e182724b5e/jobhunt  
+
+다양한 사람과 교류하는 것을 좋아하고 함께 프로젝트를 하는것 또한 좋아합니다.  
+ - Facebook : https://www.facebook.com/profile.php?id=100005957493855
+ - Email : nono1507@naver.com
